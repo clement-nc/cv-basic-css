@@ -1,0 +1,41 @@
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #5c8d89;
+}
+
+a:visited {
+  color: #b5525c;
+}
+
+a:hover {
+  color: #ff8b00;
+}
+
+
+body {
+  background-color: #f4f9f4;
+}
+
+img {
+  border-radius: 50%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #a7d7c5;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #5c8d89;
+}
+
+h3 {
+  color: #74b49b;
+  text-transform: uppercase;
+}
